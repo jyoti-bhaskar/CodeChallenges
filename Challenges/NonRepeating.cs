@@ -24,10 +24,7 @@ namespace Challenges
                 if (count == 1)
                     return sen[i].ToString();
                 else
-                {
                     count = 1;
-
-                }
             }
 
             return "-1";
